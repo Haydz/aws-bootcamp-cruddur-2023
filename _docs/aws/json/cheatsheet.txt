@@ -1,15 +1,4 @@
-rj8HX5az6*@CqaRxxxmJf1H^CKj%yU
 
-https://004479941357.signin.aws.amazon.com/console
-
-haydnmula_user
-
-https://haydncourses.signin.aws.amazon.com/console
-
-
-access key: AKIAQCCYGPLW4UYZDEUK
-secret:
-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
 
 
 aws sts get-caller-identity
